@@ -1,25 +1,27 @@
-# desafios-python
-"Repositório com desafios de funções em Python."
+# 📌 Desafios Python
 
+Este repositório contém desafios de programação em Python para prática de lógica e funções.
 
-## 📝 Desafios:
+## 📋 Desafios
 
-1. **Função Média**: Calcula a média aritmética de três números.
-2. **Função Maior Número**: Identifica o maior número entre três números fornecidos.
+1. **Função Média (`media.py`)**  
+   - Calcula a média aritmética de três números fornecidos pelo usuário.
 
-## 🚀 Como Usar
+2. **Função Maior Número (`maior_numero.py`)**  
+   - Determina o maior número entre três valores inseridos pelo usuário.
 
-1. Clone o repositório:
+## 🚀 Como Executar
+
+1. **Clonar o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/desafios-python.git
-
-Acesse a pasta:
+   git clone https://github.com/neiva39/desafios-python.git
+Acessar a pasta:
 
 bash
 Copiar
 Editar
 cd desafios-python
-Execute os scripts:
+Executar um dos desafios:
 
 bash
 Copiar
@@ -29,16 +31,10 @@ python maior_numero.py
 🛠 Tecnologias Utilizadas
 Python 3+
 
+GitHub Codespaces (opcional)
+
 📄 Licença
 Este projeto está sob a licença MIT.
 
-pgsql
-Copiar
-Editar
-
-### 8. Faça o commit e envie as alterações do README.md
-
-```bash
-git add README.md
-git commit -m "Atualizando README com descrição dos desafios"
+📌 Desenvolvido por Neiviene Oliveira de Souza Santos Costagit commit -m "Atualizando README com descrição dos desafios"
 git push origin main
